@@ -1,3 +1,6 @@
+gpg encrypt:
+https://www.jianshu.com/p/268064e67719
+
 https://askubuntu.com/questions/907246/how-to-disable-systemd-resolved-in-ubuntu/907249#907249
 modify systemd resolve
 modify /etc/resolv softlink 
